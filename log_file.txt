@@ -1,0 +1,17 @@
+commit fd25ef3d86da0ffefb14b1b9b2e3ba1a1a5ff071
+Author: kpglide <kpglide@gmail.com>
+Date:   Thu Jan 14 21:00:10 2021 -0500
+
+    added gitignore
+
+commit 581c3999422774b4934c77d6676eedf99fa7e62a
+Author: kpglide <kpglide@gmail.com>
+Date:   Tue Jan 12 07:19:38 2021 -0500
+
+    added two files
+
+commit 49d8f4ccacde6ab00b70d0ba276b0e05f3701a6b
+Author: kpglide <kpglide@gmail.com>
+Date:   Tue Jan 12 07:16:19 2021 -0500
+
+    added readme.txt
