@@ -1,30 +1,26 @@
-# This is a large heading
+# Kevin Glidewell
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Atlanta, in the state of Georgia, in the United States
+of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Civilwarland in Bad Decline by George Saunders
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Taquriea del Sol in Decatur.
+2. Fox Bros. in Atlanta.
+3. Weaver D's in Athens.
 
-nano README.md
+### Contact
+
+The best way to get in touch with me is on Twitter @kpglide
